@@ -3,3 +3,6 @@ virtual/
 .virtualnn/
 *.mp4
 *.log
+fashion_mnist/
+*.h5
+*.json
