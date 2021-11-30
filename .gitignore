@@ -7,5 +7,6 @@ fashion_mnist/
 *.h5
 *.json
 *.zip
+*.keras
 train/
 cats_and_dogs_dataset/
