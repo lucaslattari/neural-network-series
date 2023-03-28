@@ -1,3 +1,6 @@
 ge_lstm/
 *.pkl
 ge_news.csv
+*.h5
+*.npy
+*.sh
