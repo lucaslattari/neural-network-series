@@ -10,3 +10,7 @@ fashion_mnist/
 *.keras
 train/
 cats_and_dogs_dataset/
+ep13ml/
+glove.6B.100d.txt
+ge_df.pkl
+ge_news.csv
